@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a student passionate about coding, mobile app developm
 
 
 ### Tools:
-![image](https://github.com/user-attachments/assets/2f7513ad-f92e-4c37-b5ab-093411b84d42) ![image](https://github.com/user-attachments/assets/292f1489-de20-4602-9f15-e57a0ad1606b) ![image](https://github.com/user-attachments/assets/dac88b27-0540-4e08-a15c-8a1398337bde) ![image](https://github.com/user-attachments/assets/9382d518-98f4-45fe-9535-7f1c6833a817) ![image](https://github.com/user-attachments/assets/b71f7e10-fa58-4248-9377-75640ce90e6c) ![image](https://github.com/user-attachments/assets/8c4039b4-bad9-45c7-ad13-06c6a4fb9d12)
+<img src="https://github.com/user-attachments/assets/2f7513ad-f92e-4c37-b5ab-093411b84d42" width="200" /> <img src="https://github.com/user-attachments/assets/292f1489-de20-4602-9f15-e57a0ad1606b" width="200" /> <img src="https://github.com/user-attachments/assets/dac88b27-0540-4e08-a15c-8a1398337bde" width="200" /> <img src="https://github.com/user-attachments/assets/9382d518-98f4-45fe-9535-7f1c6833a817" width="200" /> <img src="https://github.com/user-attachments/assets/b71f7e10-fa58-4248-9377-75640ce90e6c" width="200" /> <img src="https://github.com/user-attachments/assets/8c4039b4-bad9-45c7-ad13-06c6a4fb9d12" width="200" />
 
 
 - 🌱 I’m currently learning cybersecurity basics
